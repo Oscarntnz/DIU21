@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU2.CajerosRurales";
         $scope.Curso ="2020/21";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -29,59 +29,58 @@ angular.module("angular", [])
 			{		
                 
                 /*************************************/
-                /**** PRIMER USER JOURNEY MAP  *******/
-                /*** Cambiar datos             *******/
+                /****   PRIMER USER JOURNEY MAP   ****/
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Antonio Jesús",
+                Photo: "ajp.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
+                goal1: "Quiere planear un viaje en verano a Granada.",
+                touch1: "Agenda",
+                feel1: "3",
+                con1: "Encartar una fecha buena para que le venga bien a su mujer, y sus hijos no requieran su presencia.",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Busca alojamiento en un hotel, usa una aplicación en el movil que le recomendó su hijo.",
+                touch2: "Móvil (TurGranada) y Teléfono",
+                feel2: "1",
+                con2: "Cuando accede a la sección de \"Alojamientos\" le aparecen por cercanía, y no es posible filtrarlos por municipios, lo cual provoca que haga algunas llamadas a hoteles de distintos municipios.",
+                ima2: "cartoon-phoning.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                goal3: "Va hacia el hotel donde ha hecho la reserva",
+                touch3: "Móvil",
+                feel3: "2",
+                con3: "Para que muestre el mapa se tiene que pulsar en una zona sin icono, ni ninguna indicación. No lo ve, y tiene que hacerlo a la antigua usanza",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                goal4: "Pregunta a algunos amigos alguna recomendación para hacer turismo en Granada. Le proponen 2 alternativas: Google Maps, o la misma aplicación que antes.",
+                touch4: "Móvil (WhatsApp)",
+                feel4: "3",
+                con4: "Tiene pocas opciones, y ninguna es de su agrado, ya que el esperaba una opción más tradicional.",
+                ima4: "cartoon-phone-sitting.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
+                goal5: "Antonio Jesús decide seguir usando TurGranada, ya que está dedicada concretamente al turismo en la ciudad que está viajando",
+                touch5: "Móvil",
                 feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                con5: "No tuvo una muy buena impresión con la primera vez que la usó, y le tiene que preguntar alguna vez que otra a su hijo sobre cómo se usa la aplicación",
+                ima5: "cartoon-phone.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Una vez de haberla usado para ir a varios sitios, finalmente se acostumbra a su interfaz y logra ir a varios sitios de interes turísitco",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                feel6: "4",
+                con6: "A pesar de tener éxito, nota que podría haber usado la aplicación sin tener que invertir tanto tiempo",
                 ima6: "cartoon-resting.png",
                 
 			},

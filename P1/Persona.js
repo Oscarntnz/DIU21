@@ -17,9 +17,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU2.CajerosRurales";
         $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/Oscarntnz/DIU21";
         
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
@@ -27,49 +27,47 @@ angular.module("angular", [])
                 
                 
                 /*************************************/
-                /**** PRIMERA PERSONA          *******/
-                /*** Cambiar datos             *******/
+                /****       PRIMERA PERSONA       ****/
                 /*************************************/
                 
                 
 				Id: 0,
-				Name: "Pedro",
-				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Name: "Antonio Jesús",
+				Photo: "ajp.jpg",
+				Quote: "El tempus fugit",
+				Age: 70,
+				Occupation: "Jubilado",
+				Family: "Casado por segunda vez y con 2 hijos",
+				Location: "Albacete",
+				Character: "A pesar de su avanzada edad, le gusta mucho recorrer España",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1.5 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Hacer viajes alrededor de España con su actual mujer", "Motivar a sus hijos a que empiecen un plan de pensiones", "Ahorrar para dejar una buena herencia a sus hijos", "Hacer "],
+				Frustrations: ["No le gusta la tecnología", "No le gusta andar", "No le gusta interactuar con personas lejanas a su circulo cercano, por lo que prefiere comunicarse lo mínimo", "No le gustan los sitios abarrotados"],
+				Bio: "Nacido en Albacete, Antonio Jesús comenzó trabajando de albañil, hasta que pudo ahorrar lo suficiente y montó una empresa. Vivió de su empresa el resto de su vida laboral. Está casado por segunda vez y tiene un hijo con su mujer y otro con su exmujer. Ahora está jubilado y le gusta ir recorriendo el pais con su actual cónyuge.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
+					{ Name: "TIC/Internet", Value: 1 },
+					{ Name: "Movil", Value: 2.5 },
+					{ Name: "RRSS", Value: 0.5 },
 					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Ya que se va acercando el verano, Antonio Jesús planea hacer otro viaje con su mujer. Esta vez quiere ir a Granada, ya que nunca ha ido allí.",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Online & Social Media", Value: 1 },
+					{ Name: "Recomendaciones & sugerencias", Value: 2.5 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			},
 			{	
                 
                 /*************************************/
-                /**** SEGUNDA PERSONA          *******/
-                /*** Cambiar datos             *******/
+                /****       SEGUNDA PERSONA       ****/
                 /*************************************/
                 
                 
