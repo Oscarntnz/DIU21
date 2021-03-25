@@ -4,6 +4,8 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU2_CajerosRurales.  Curso: 2020/21 
 Updated: 25/3/2021
 
+Enlace a Github: https://github.com/Oscarntnz/DIU21
+
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
