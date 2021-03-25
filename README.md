@@ -28,12 +28,25 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+|  Nombre   |Web/App|                               Inconvenientes                                       |Ámbito |
+|:---------:|:------:|:---------------------------------------------------------------------------------:|:-----:|
+|Granadatur |Web     | Web algo antigua e información un poco escasa en ciertas partes.                  |Turismo|
+|EsMadrid   |Web     |Interfaz algo abarrotada.                                                          |Turismo|
+|Turismo.gal|Web     |Omisión de información al cambiar de idioma                                        |Turismo|
+|Google Maps|Ambas   |Poca explicación sobre como manejarlo                                              |General|
+|TurGranada |Ambas   |No hay información sobre preguntas comunes de los usuarios o indicaciones generales|Turismo|
+
+
+De entre todas las posibles aplicaciones de turismo web , hemos escogido TourGranada debido a que está centrada en turismo en Granada, y posee una versión App, a diferencia de las otras.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![Antonio Jesus](P1/photos/antoniojesus.png)
+
+![Victoria](P1/photos/victoria.png)
+
+Consideramos que esos dos personas (con poca experiencia con la tecnología y que no habla el idioma de la aplicación) nos podían presentar escenarios donde podriamos comprobar si la aplicación tuviera una interfaz lo suficientemente clara como para ser entendible para esos usuarios.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -48,6 +61,10 @@ Miembros
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+Enlace al documento: https://github.com/Oscarntnz/DIU21/tree/master/P1/Usability-review.xlsx <br>
+Valoración final: 67<br>
+Comentario sobre la valoración: Si bien es una aplicación concreta para el turismo en Granada, notamos que era escueta en ciertas funcionalidades, y mejorable en algunos aspectos. Sin embargo es perfectamente usable por usuarios con poca experiencia o con alguna dificultad.
 
 
 ## Paso 2. UX Design  
