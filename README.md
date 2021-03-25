@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU2_CajerosRurales.  Curso: 2020/21 
-Updated: 21/3/2021
+Updated: 25/3/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -51,20 +51,13 @@ Consideramos que esos dos personas (con poca experiencia con la tecnología y qu
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Para Antonio Jesús, decidí que hiciera un viaje a Granada, ya que sería capaz de probar todas o la mayoría de funcionalidades de la aplicación, cosa que le podría causar problemas con la interfaz. Respecto a la segunda persona hemos decidido poner la barrera del idioma como inconveniente ya que creemos que es algo muy presente en la actualidad y tanto el anterior como este puede ayudarnos a diseñar una interfaz más enfocada a la facilidad de comprensión y uso por parte del usuario.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
-Enlace al documento: https://github.com/Oscarntnz/DIU21/tree/master/P1/Usability-review.xlsx <br>
-Valoración final: 67<br>
-Comentario sobre la valoración: Si bien es una aplicación concreta para el turismo en Granada, notamos que era escueta en ciertas funcionalidades, y mejorable en algunos aspectos. Sin embargo es perfectamente usable por usuarios con poca experiencia o con alguna dificultad.
+- Enlace al documento: https://github.com/Oscarntnz/DIU21/tree/master/P1/Usability-review.xlsx <br>
+- Valoración final: 67<br>
+- Comentario sobre la valoración: Si bien es una aplicación concreta para el turismo en Granada, notamos que era escueta en ciertas funcionalidades, y mejorable en algunos aspectos. Sin embargo es perfectamente usable por usuarios con poca experiencia o con alguna dificultad.
 
 
 ## Paso 2. UX Design  
