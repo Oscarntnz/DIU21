@@ -68,15 +68,9 @@ Para Antonio Jesús, decidí que hiciera un viaje a Granada, ya que sería capaz
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
 ![fb_cap_grid](P2/fb_capture_grid.jpg)
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+De la apliación TurGranada nos hemos fijado principalmente en que es una aplicación bastante báscia en comparación con sus competidores. Está bastante desactualizada, y lo recogimos todo en la malla.
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
