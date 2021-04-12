@@ -71,6 +71,8 @@ Para Antonio Jesús, decidí que hiciera un viaje a Granada, ya que sería capaz
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
+![fb_cap_grid](P2/fb_capture_grid.jpg)
+
 
  Interesante | Críticas     
 | ------------- | -------
