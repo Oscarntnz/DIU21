@@ -111,7 +111,7 @@ Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico e
 | Contacta con nosotros     | Correo electrónico, numero de telefono de la empresa para hacer un reporte                        |![](P2/iconos/report.png)     |
 | Menu desplegable          | Menu que se despliega                                                                             |![](P2/iconos/menu.png)       |
 | Contraseña                | Contraseña del usuario                                                                            |![](P2/iconos/password.png)   |
-| Puntuacion                | Puntuación de un bar                                                                              |![](P2/iconos/star.png)       |
+| Puntuacion                | Puntuación de un bar                                                                              |![](P2/iconos/vote.png)       |
 | Editar                    | Editar la reseña de un bar                                                                        |![](P2/iconos/pencil.png)     |
 
 
