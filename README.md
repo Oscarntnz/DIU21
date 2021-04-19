@@ -85,9 +85,6 @@ Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico e
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
 | Label                     | Descripción                                                                                       |            Icono             |
 | ------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------- |
 | Página de inicio          | Pagina prinicipal de la aplicación                                                                |![](P2/iconos/home.png)       |
@@ -99,7 +96,7 @@ Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico e
 | Ruta                      | Rutas gastronómicas mas buscadas y populares                                                      |![](P2/iconos/ruta.png)       |
 | Bar                       | Bares recomendados por otros usuarios                                                             |![](P2/iconos/bar.png)        |
 | Borrar Ruta               | Eliminar una ruta guardada por un usuario                                                         |![](P2/iconos/garbage.png)    |
-| Añadir Ruta               | Añadir una ruta en la lista de rutas de un usuario                                                |![](P2/iconos/plus.png)       |
+| Añadir Ruta               | Añadir una ruta en la lista de rutas de un usuario                                                |![](P2/iconos/add.png)        |
 | Cerrar Sesión             | Cerrar sesión como usuario de la aplicación                                                       |![](P2/iconos/logout.png)     |
 | Sobre Nosotros            | Correo electónico, teléfono de atención al cliente                                                |![](P2/iconos/aboutus.png)    |
 | Tutorial                  | Tutorial con los pasos iniciales para los usuarios mas recientes                                  |![](P2/iconos/tutorial.png)   |
