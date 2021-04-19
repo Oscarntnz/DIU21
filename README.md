@@ -125,10 +125,10 @@ Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico e
 ![](P2/layout/Busqueda.png)
 ![](P2/layout/Config.png)
 ![](P2/layout/Home.png)
-![](P2/layout/Log In.png)
+![](P2/layout/LogIn.png)
 ![](P2/layout/Ruta.png)
-![](P2/layout/Rutas Favoritas.png)
-![](P2/layout/Sign Up.png)
+![](P2/layout/RutasFavoritas.png)
+![](P2/layout/SignUp.png)
 ![](P2/layout/Start.png)
 
 
