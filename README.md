@@ -6,12 +6,9 @@ Updated: 25/3/2021
 
 Enlace a Github: https://github.com/Oscarntnz/DIU21
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: eatgr
 
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Descripción: Aplicación web basada en el turismo culinaro en Granada, donde los usuarios podrán tanto acceder a la información sobre distintos bares granadinos, como planear una ruta o valorar dichos bares.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
