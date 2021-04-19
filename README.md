@@ -80,10 +80,10 @@ Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico e
 
 ![usr_tsk_mtrx](P2/user_task_matrix.png)
 
-![sitemap](P2/sitemap.png)
-
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+
+![sitemap](P2/sitemap.png)
 
 | Label                     | Descripción                                                                                       |            Icono             |
 | ------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------- |
