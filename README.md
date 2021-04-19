@@ -70,25 +70,20 @@ Para Antonio Jesús, decidí que hiciera un viaje a Granada, ya que sería capaz
 
 ![fb_cap_grid](P2/fb_capture_grid.jpg)
 
-De la apliación TurGranada nos hemos fijado principalmente en que es una aplicación bastante báscia en comparación con sus competidores. Está bastante desactualizada, y lo recogimos todo en la malla.
-  
+De la apliación TurGranada nos hemos fijado principalmente en que es una aplicación bastante báscia en comparación con sus competidores. Está bastante desactualizada, y lo recogimos todo en la malla.<br>
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico en Granada, que se pueda usar facilmente tanto por turistas como propietarios de bares. Gracias al análisis anterior a TurGranada, queremos que esta aplicación permita crear cuentas para los usuarios, donde pueda guardar preferencias y rutas; Implemente mejoras de calidad de vida, como un modo oscuro, o que la interfaz esté inspirada en otras de aplicaciones altamente populares; E incentivar el turismo culinario en Granada, sobretodo para gente inexperta.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![scp_cnv](P2/scope_canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![usr_tsk_mtrx](P2/user_task_matrix.png)
 
+![sitemap](P2/sitemap.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
@@ -96,15 +91,45 @@ De la apliación TurGranada nos hemos fijado principalmente en que es una aplica
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+| Label                     | Descripción                                                                                       |            Icono             |
+| ------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------- |
+| Página de inicio          | Pagina prinicipal de la aplicación                                                                |![](P2/iconos/home.png)       |
+| Inicio de Sesión/Registro | Iniciar sesion como usuario o crearse una cuenta en caso de no poseer una                         |![](P2/iconos/account.png)    |
+| Búsqueda                  | Busqueda de rutas culinarias o bares en granada                                                   |![](P2/iconos/search.png)     |
+| Ayuda                     | Tutorial, preguntas frecuentes, atención al cliente                                               |![](P2/iconos/ayuda.png)      |
+| Perfil                    | Perfil de los usuarios registrados en la aplicación (correo electrónico, númerio de teléfono, ..) |![](P2/iconos/perfil.png)     |
+| Editar Perfil             | Ajustar los datos personales de los usuarios                                                      |![](P2/iconos/editaccount.png)|
+| Ruta                      | Rutas gastronómicas mas buscadas y populares                                                      |![](P2/iconos/ruta.png)       |
+| Bar                       | Bares recomendados por otros usuarios                                                             |![](P2/iconos/bar.png)        |
+| Borrar Ruta               | Eliminar una ruta guardada por un usuario                                                         |![](P2/iconos/garbage.png)    |
+| Añadir Ruta               | Añadir una ruta en la lista de rutas de un usuario                                                |![](P2/iconos/plus.png)       |
+| Cerrar Sesión             | Cerrar sesión como usuario de la aplicación                                                       |![](P2/iconos/logout.png)     |
+| Sobre Nosotros            | Correo electónico, teléfono de atención al cliente                                                |![](P2/iconos/aboutus.png)    |
+| Tutorial                  | Tutorial con los pasos iniciales para los usuarios mas recientes                                  |![](P2/iconos/tutorial.png)   |
+| Email                     | Email de un comercio, bar, o persona                                                              |![](P2/iconos/mail.png)       |
+| Teléfono                  | Telefono de contacto                                                                              |![](P2/iconos/telf.png)       |
+| Contacta con nosotros     | Correo electrónico, numero de telefono de la empresa para hacer un reporte                        |![](P2/iconos/report.png)     |
+| Menu desplegable          | Menu que se despliega                                                                             |![](P2/iconos/menu.png)       |
+| Contraseña                | Contraseña del usuario                                                                            |![](P2/iconos/password.png)   |
+| Puntuacion                | Puntuación de un bar                                                                              |![](P2/iconos/star.png)       |
+| Editar                    | Editar la reseña de un bar                                                                        |![](P2/iconos/pencil.png)     |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![](P2/layout/Account.png)
+![](P2/layout/Ayuda.png)
+![](P2/layout/Bar.png)
+![](P2/layout/Bar2.png)
+![](P2/layout/Busqueda.png)
+![](P2/layout/Config.png)
+![](P2/layout/Home.png)
+![](P2/layout/Log In.png)
+![](P2/layout/Ruta.png)
+![](P2/layout/Rutas Favoritas.png)
+![](P2/layout/Sign Up.png)
+![](P2/layout/Start.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
