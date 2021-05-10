@@ -147,37 +147,39 @@ Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico e
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-### FAQ
+Para la guía de diseño, nos hemos basado en la simplicidad, la poca saturación, y consistencia. Hemos escogido colores cálidos para los elementos, y el blanco y el negro para las letras. Esto para relacionar nuestra aplicación con un estilo monocromático, fácil de asociar, y cálido para recordar al verano, ya que es la mayor época turistica del año. Unas fuentes comunes y minimalistas como son Ralleway y Roboto, ya que es algo familiar internacionalmente. Y lo mismo aplicado a la iconografía, un estilo lineal y fácilmente reconocible.
+
+#### Patrones
+
+###### FAQ
 Para la sección de ayuda, pensamos en incluir una subsección con preguntas frecuentes. Ahí haríamos uso del patrón FAQ.
 >>Use when users typically has the same concerns and questions about a service.
 >>Use to collect answers to common questions from your support department or other type of feedback mechanism.
 
-### Slideshow
+###### Slideshow
 Útil para la sección de imágenes de un bar.
 >>Use when you need to capture attention using multiple stories and minimize screen real estate.
 
-### Autocomplete
+###### Autocomplete
 Es conveniente cuando los usuarios buscan un bar concreto.
 >>Use to assist with ambiguity-issues, when an item can be entered in multiple ways
 
-### Search Filter
+###### Search Filter
 Una mejora con forme a la aplicación estudiada en la P1, y útil para términos de búsqueda amplios o ambiguos.
 >>Use when the search results for a query are very numerous and reviewing them would be very time consuming.
 >>Use when search results can be categorized into filters: the search must be contextual.
 
-### Testimonials
+###### Testimonials
 Para las reseñas de los bares.
 
-### Lazy Registration/Account Registration
+###### Lazy Registration/Account Registration
 Usado por usuarios nuevos que quieran usar la aplicación con o sin cuenta.
 
-### Module Tabs
+###### Module Tabs
 Usado para filtrar simplemente las busquedas, o los locales/rutas en la página de inicio.
 
-### Home Link
+###### Home Link
 Tenemos un home link en la barra desplazable de la izquierda.
-
-Para la guía de diseño, nos hemos basado en la simplicidad, la poca saturación, y consistencia. Hemos escogido colores cálidos para los elementos, y el blanco y el negro para las letras. Esto para relacionar nuestra aplicación con un estilo monocromático, fácil de asociar, y cálido para recordar al verano, ya que es la mayor época turistica del año. Unas fuentes comunes y minimalistas como son Ralleway y Roboto, ya que es algo familiar internacionalmente. Y lo mismo aplicado a la iconografía, un estilo lineal y fácilmente reconocible.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
