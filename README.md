@@ -27,7 +27,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-|  Nombre   |Web/App|                               Inconvenientes                                       |Ámbito |
+|  Nombre   |Web/App |                               Inconvenientes                                      |Ámbito |
 |:---------:|:------:|:---------------------------------------------------------------------------------:|:-----:|
 |Granadatur |Web     | Web algo antigua e información un poco escasa en ciertas partes.                  |Turismo|
 |EsMadrid   |Web     |Interfaz algo abarrotada.                                                          |Turismo|
@@ -176,6 +176,8 @@ Usado para filtrar simplemente las busquedas, o los locales/rutas en la página 
 
 # Home Link
 Tenemos un home link en la barra desplazable de la izquierda.
+
+Para la guía de diseño, nos hemos basado en la simplicidad, la poca saturación, y consistencia. Hemos escogido colores cálidos para los elementos, y el blanco y el negro para las letras. Esto para relacionar nuestra aplicación con un estilo monocromático, fácil de asociar, y cálido para recordar al verano, ya que es la mayor época turistica del año. Unas fuentes comunes y minimalistas como son Ralleway y Roboto, ya que es algo familiar internacionalmente. Y lo mismo aplicado a la iconografía, un estilo lineal y fácilmente reconocible.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
