@@ -147,8 +147,35 @@ Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico e
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+# FAQ
+Para la sección de ayuda, pensamos en incluir una subsección con preguntas frecuentes. Ahí haríamos uso del patrón FAQ.
+>>Use when users typically has the same concerns and questions about a service.
+>>Use to collect answers to common questions from your support department or other type of feedback mechanism.
+
+# Slideshow
+Útil para la sección de imágenes de un bar.
+>>Use when you need to capture attention using multiple stories and minimize screen real estate.
+
+# Autocomplete
+Es conveniente cuando los usuarios buscan un bar concreto.
+>>Use to assist with ambiguity-issues, when an item can be entered in multiple ways
+
+# Search Filter
+Una mejora con forme a la aplicación estudiada en la P1, y útil para términos de búsqueda amplios o ambiguos.
+>>Use when the search results for a query are very numerous and reviewing them would be very time consuming.
+>>Use when search results can be categorized into filters: the search must be contextual.
+
+# Testimonials
+Para las reseñas de los bares.
+
+# Lazy Registration/Account Registration
+Usado por usuarios nuevos que quieran usar la aplicación con o sin cuenta.
+
+# Module Tabs
+Usado para filtrar simplemente las busquedas, o los locales/rutas en la página de inicio.
+
+# Home Link
+Tenemos un home link en la barra desplazable de la izquierda.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
