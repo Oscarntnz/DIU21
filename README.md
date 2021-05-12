@@ -11,7 +11,7 @@ Proyecto: eatgr
 Descripción: Aplicación web basada en el turismo culinaro en Granada, donde los usuarios podrán tanto acceder a la información sobre distintos bares granadinos, como planear una ruta o valorar dichos bares.
 
 Logotipo: 
-![Método UX](P3/logo.png)
+![Método UX](P3/logo2.png)
 
 Miembros
  * :bust_in_silhouette:  Óscar Antúnez Martinaitis :octocat:     
