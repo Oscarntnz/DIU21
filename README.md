@@ -11,7 +11,7 @@ Proyecto: eatgr
 Descripción: Aplicación web basada en el turismo culinaro en Granada, donde los usuarios podrán tanto acceder a la información sobre distintos bares granadinos, como planear una ruta o valorar dichos bares.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Método UX](P3/logo.png)
 
 Miembros
  * :bust_in_silhouette:  Óscar Antúnez Martinaitis :octocat:     
@@ -132,17 +132,20 @@ Nosotros proponemos una aplicacion que esté basada en el turismo gastronomico e
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+![](P3/moodboard.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Link: https://app.milanote.com/1LFGhO13xy5c9i?p=0YxVQRveuQS
 
+Comenzamos diseñando un logotipo para la aplicación centrándonos en la imagen y el color (letra negra con fondo amarillo). El color negro es para facilitar su lectura mientras que el color amarillo lo utilizamos para asociar nuestra aplicación con las comidas típicas de España y Granada. En cuanto a la fuente utilizamos  Poppins Light y Raleway debido a su facilidad de lectura y simplicidad. Como resultado conseguimos diseñar un logotivo sencillo y facil de interporetar
+
+En cuanto a las imágenes decidimos utilizar imágenes de tapas para relacionarlo con las rutas culinarias en Granada. Para el logotipo además utilizamos una imagen con cubiertos para asociarlo con la gastronomía.
+
+Para el logotipo usamos https://www.canva.com/ la cual es de pago, pero se puede usar gratis de forma limitada. Desafortunadamente, no se podía en SVG, y tuvimos que exportarlo en PNG, el cual si bien no tiene fondo, es un mapa de píxeles, y al ampliarlo o viceversa pierde calidad. Para usarla como cabecera, tendríamos que pasarlo a svg.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+![](P3/landingpage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -184,16 +187,72 @@ Tenemos un home link en la barra desplazable de la izquierda.
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+El enlace para interactuar con el Mockup en Adobe XD es este: https://xd.adobe.com/view/3af35b22-579f-4230-b4a2-839c88268657-6fa0/
+También hay un archivo .xd en la carpeta P3.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+Eatgr es una aplicación enfocada en el turismo culinario en Granada. En ella los usuarios podrán tanto acceder a la información sobre distintos bares granadinos, como planear una ruta o valorar dichos bares.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Para empezar, analizamos varias aplicaciones de turismo.
 
+[Enlace](https://github.com/Oscarntnz/DIU21#-1a-competitive-analysis)
+
+Y de ellas analizamos más en profundidad TurGranada, debido a que está centrada en turismo en Granada, y posee una versión App, a diferencia de las otras.
+
+Lo siguente, fue crear 2 personajes ficticios:
+
+Una persona mayor, con poca experiencia con la tecnología. Y una extranjera que no habla el idioma de la aplicación.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#-1b-persona)
+
+Consideramos que esos dos personas (con poca experiencia con la tecnología y que no habla el idioma de la aplicación) nos podían presentar escenarios donde podríamos comprobar si la aplicación tuviera una interfaz lo suficientemente clara como para ser entendible para esos usuarios.
+
+Dados estos personajes, creamos sus correspondientes Journey Maps, donde ambos viajan a Granada y usan la aplicación que analizamos.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#-1c-user-journey-map)
+
+Para Antonio Jesús, decidimos que hiciera un viaje a Granada, ya que sería capaz de probar todas o la mayoría de funcionalidades de la aplicación, cosa que le podría causar problemas con la interfaz. Respecto a la segunda persona hemos decidido poner la barrera del idioma como inconveniente ya que creemos que es algo muy presente en la actualidad y tanto el anterior como este puede ayudarnos a diseñar una interfaz más enfocada a la facilidad de comprensión y uso por parte del usuario.
+
+A parte de estos usuarios, hicimos un Usability Review donde puntuamos la aplicación y destacamos los apartados mejorables a groso modo. TurGranada obtuvo un 67.
+
+Una vez planteados los problemas de la aplicación creamos un Feedback Capture Grid para analizar los does y los don’t, a parte de añadir posibles mejoras a añadir en nuestra aplicación.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#-2a-feedback-capture-grid--empathy-map--pov)
+
+De la apliación analizada, los don’t destacados eran su desactualización, y su falta de funcionalidad.
+
+A partir del punto anterior, extrajimos los puntos más relevantes e hicimos un Scope Canvas para aplicarlos en nuestra aplicación, a parte de añadir ciertos objetivos y metas a tener en cuenta.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#-2b-scopecanvas)
+
+Una vez planteado el canvas, decidimos hacer una tabla recogiendo las acciones de nuestra futura aplicación, destacando las más usadas/importantes.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#-2b-tasks-analysis)
+
+También creamos un sitemap para la navegación de la aplicación:
+
+Los iconos que planteamos usar eran unos minimalistas, y conocidos por la mayoría de usuarios de cualquier dispositivo móvil. Esto sería útil para personajes como Antonio Jesús o Victoria, ya que ellos podrían aprovechar este diseño, ya sea por su claridad, o porque ya lo conocen de antes.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#-2c-ia-sitemap--labelling)
+
+Seguidamente planteamos los bocetos iniciales de la aplicación. Estos para basarnos en ellos a la hora de hacer el diseño hi-fi, por lo cual no tienen mucho detalle, solo elementos que sustituiriamos en el paso siguiente.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#-2d-wireframes)
+
+A partir de los bocetos diseñados anteriormente en la práctica 2 hemos diseñado una aplicación en adobe XD que cumpla con los objetivos principales de esta práctica.
+
+Comenzamos diseñando un logotipo para la aplicación centrándonos en la imagen y el color (letra negra con fondo amarillo). El color negro es para facilitar su lectura mientras que el color amarillo lo utilizamos para asociar nuestra aplicación con las comidas típicas de España y Granada. En cuanto a la fuente utilizamos  Poppins Light y Raleway debido a su facilidad de lectura y simplicidad. Como resultado conseguimos diseñar un logotivo sencillo y facil de interporetar:
+
+En cuanto a las imágenes decidimos utilizar imágenes de tapas para relacionarlo con las rutas culinarias en Granada. Para el logotipo además utilizamos una imagen con cubiertos para asociarlo con la gastronomía.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#-3a-moodboard)
+
+Primero nos centramos en crear una base para lo que sería la aplicación , diseñando primero sus distintas secciones y el contenido de cada una de estas. A continuación decidimos que lo más importante sería centrarse en hacer la interfaz lo más simple posible evitando que estuviese saturada con distinta información. Por último enlazamos cada una de las ventanas para crear una sensación de unidad y funcionalidad de la aplicación.
+
+[Enlace](https://github.com/Oscarntnz/DIU21#--3d-mockup)
 
 ## Paso 4. Evaluación 
 
