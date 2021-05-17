@@ -270,13 +270,14 @@ Primero nos centramos en crear una base para lo que sería la aplicación , dise
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+|    Usuarios   | Sexo/Edad| Ocupación   |  Exp.TIC    | Personalidad                      | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | --------------------------------  | ---------- | ----
+|  Valdomero    | H / 67   |  Jubilado   | Baja        | Introvertido, miedoso             | App        | A 
+| Carlos        | H / 35   | Estudiante  | Media       | Poca paciencia, adicto al trabajo | App        | A 
+|    Evelyn     | M / 22   | Psicóloga   | Media       | Fiestera, sorprendida             | App        | B 
+|    Pablo      | H / 36   | Camarógrafo | Alta\*      | Mal perdedor, testarudo           | App        | B
 
+\*Antes de estudiar comunicación audiovisual, Pablo estudió informática.
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
