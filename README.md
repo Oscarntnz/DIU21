@@ -294,7 +294,7 @@ Consideramos que tanto el caso A como el caso B pasan correctamente el test SUS,
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-[Link](P4/usability_report.pdf)
+[Link](P4/P4_UsabReport_Singapur_doneby_DIU2_CajerosRurales.pdf)
 
 La apliacion de los compañeros de DIU1_Singapur está bastante bien diseñada, ya que no es compleja, sin embargo tiene las funcionalidades que esperariamos de ese tipo de aplicaciones, y pensamos que no sería complicado aprender a usarla, independientemente del usuario.
 
