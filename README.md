@@ -273,7 +273,7 @@ Primero nos centramos en crear una base para lo que sería la aplicación , dise
 |    Usuarios   | Sexo/Edad| Ocupación   |  Exp.TIC    | Personalidad                      | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | --------------------------------  | ---------- | ----
 |  Valdomero    | H / 67   |  Jubilado   | Baja        | Introvertido, miedoso             | App        | A 
-| Carlos        | H / 35   |  Banquero   | Media       | Poca paciencia, adicto al trabajo | App        | A 
+| Carlos        | H / 35   |  Banquero   | Media       | Mucha paciencia, adicto al trabajo| App        | A 
 |    Evelyn     | M / 22   | Psicóloga   | Media       | Fiestera, sorprendida             | App        | B 
 |    Pablo      | H / 36   | Camarógrafo | Alta\*      | Mal perdedor, testarudo           | App        | B
 
