@@ -262,7 +262,7 @@ Primero nos centramos en crear una base para lo que sería la aplicación , dise
 
 Intero es una app de economía colaborativa basada en el couchsurfing. Los usuarios ofrecen sus casas para estancias cortas a viajeros dinámicos que no quieren depender de un hotel.
 
-![Repositorio](https://github.com/Groctel/DIU21)
+[Repositorio](https://github.com/Groctel/DIU21)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
