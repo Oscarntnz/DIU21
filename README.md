@@ -285,21 +285,21 @@ Pensamos que al escoger estos personajes, podemos hacer un test bastante adecuad
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+[Tabla de Excell](P4/Cuestionario SUS DIU.xlsx)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![](P4/sus_captura.png)
+
+Consideramos que tanto el caso A como el caso B pasan correctamente el test SUS, tanto para los personajes con poca experiencia como para los de alto conocimiento.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+[Link](P4/usability_report.pdf)
 
+La apliacion de los compañeros de DIU1_Singapur está bastante bien diseñada, ya que no es compleja, sin embargo tiene las funcionalidades que esperariamos de ese tipo de aplicaciones, y pensamos que no sería complicado aprender a usarla, independientemente del usuario.
 
-
->>> Valoración personal 
+![](P4/encuesta_sus.png)
 
 
 ## Paso 5. Evaluación de Accesibilidad  
