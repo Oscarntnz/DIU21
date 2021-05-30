@@ -262,14 +262,13 @@ Primero nos centramos en crear una base para lo que sería la aplicación , dise
 
 Intero es una app de economía colaborativa basada en el couchsurfing. Los usuarios ofrecen sus casas para estancias cortas a viajeros dinámicos que no quieren depender de un hotel.
 
+![log](https://raw.githubusercontent.com/Groctel/DIU21/master/P3/logo.png)
+
 [Repositorio](https://github.com/Groctel/DIU21)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+---- 
 
 |    Usuarios   | Sexo/Edad| Ocupación   |  Exp.TIC    | Personalidad                      | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | --------------------------------  | ---------- | ----
@@ -285,7 +284,7 @@ Pensamos que al escoger estos personajes, podemos hacer un test bastante adecuad
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-[Tabla de Excell](P4/Cuestionario SUS DIU.xlsx)
+[Tabla de Excell](https://github.com/Oscarntnz/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
 
 ![](P4/sus_captura.png)
 
